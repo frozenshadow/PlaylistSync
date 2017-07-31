@@ -5,9 +5,9 @@ PlaylistSync tries to sync your playlist files to any device or directory, while
 
 ## How to use PlaylistSync
 
-1. [Download](releases) and extract the latest PlaylistSync program
+1. [Download](../../releases) and extract the latest PlaylistSync program
 2. Open the program and select your playlist  
-_Please, read our [Faq](wiki/FAQ) about the playlist requirements!_
+_Please, read our [Faq](../../wiki/FAQ) about the playlist requirements!_
 3. Select the destination folder
 4. Review the options
 5. Begin the sync operation
